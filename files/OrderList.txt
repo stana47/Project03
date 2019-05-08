@@ -1,0 +1,3 @@
+200,750 1000 [Bread kind:roll, Meat kind:Ham, Mayo, Vegetables kind:lettuce:tomato]
+460,300 1016 [Bread kind:warp, Meat kind:Ham, Mayo, Vegetables kind:lettuce]
+600,270 1159 [Bread kind:warp, Meat kind:turkey, Mayo, Vegetables kind:lettuce]
